@@ -23,5 +23,5 @@ def find_pair(lst, target):
     
     return('no pairs sum to the target')
 
-sample_list = [ 3, 7, 6, 8]
+sample_list = [ 3, 7, 6, 8, 5, 2]
 print(find_pair(sample_list, 9))
